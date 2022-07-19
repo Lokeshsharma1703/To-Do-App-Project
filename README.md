@@ -16,14 +16,14 @@ samples, guidance on mobile development, and a full API reference.
 
 # Android Screenshots of To-Do List Application
 
-![1](https://user-images.githubusercontent.com/73654083/179728172-d78e7cc0-817c-4b8e-9823-dd0aa35f192f.jpeg)
-![2](https://user-images.githubusercontent.com/73654083/179728515-1c5f2573-ddf7-4e5c-9909-400e05c39c46.jpeg)
-![3](https://user-images.githubusercontent.com/73654083/179728542-5c74e19e-9ab7-4e81-a785-5b6ae636e98b.jpeg)
-![4](https://user-images.githubusercontent.com/73654083/179728577-a6e961a5-0db3-44f8-9a12-b35c57a64406.jpeg)
-![5](https://user-images.githubusercontent.com/73654083/179728590-02cbb4c2-0133-4bd9-9ea3-b9736ece5281.jpeg)
-![6](https://user-images.githubusercontent.com/73654083/179728610-cfdb5c04-7918-4bd0-ad63-aa478a6a1eb8.jpeg)
-![7](https://user-images.githubusercontent.com/73654083/179728636-42ac08d6-5fb1-400f-ac1e-68cf5db579e5.jpeg)
-![8](https://user-images.githubusercontent.com/73654083/179728655-16dd95cc-5792-4de3-a530-7815e018a77a.jpeg)
+<img src="https://user-images.githubusercontent.com/73654083/179728172-d78e7cc0-817c-4b8e-9823-dd0aa35f192f.jpeg" width="250"> <img src="https://user-images.githubusercontent.com/73654083/179728515-1c5f2573-ddf7-4e5c-9909-400e05c39c46.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/73654083/179728542-5c74e19e-9ab7-4e81-a785-5b6ae636e98b.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/73654083/179728542-5c74e19e-9ab7-4e81-a785-5b6ae636e98b.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/73654083/179728577-a6e961a5-0db3-44f8-9a12-b35c57a64406.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/73654083/179728590-02cbb4c2-0133-4bd9-9ea3-b9736ece5281.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/73654083/179728610-cfdb5c04-7918-4bd0-ad63-aa478a6a1eb8.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/73654083/179728636-42ac08d6-5fb1-400f-ac1e-68cf5db579e5.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/73654083/179728655-16dd95cc-5792-4de3-a530-7815e018a77a.jpeg" width="250">
 
 - To-do lists offer a way to increase productivity, stopping us from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely.
 
