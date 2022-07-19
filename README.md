@@ -31,3 +31,11 @@ samples, guidance on mobile development, and a full API reference.
 - A to do list acts as an external memory aid. It’s only possible to hold a few pieces of information at one time. Keep a to do list and we’ll be able to keep track of everything, rather than just a few of the tasks we need to do. 
 
 - All it takes is just a few minutes every day to keep a to do list up to date. With a to do list, we can complete goals without wasting our time trying to figure out priorities. Our productivity will increase, and we won’t forget things.
+
+
+# Application Features
+- Create New Tasks from the Action button.
+- Locally store created Task using database file.
+- Fetch and Display Complete and InComplete Tasks from the locale db file.
+- Mark a Task as Done.
+- Update and Delete feature from the local db file.
