@@ -1,6 +1,5 @@
-# to_do
-
-A new Flutter project.
+## To-Do List
+A To-Do Flutter application to manage your TaskList.
 
 ## Getting Started
 
