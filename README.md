@@ -38,3 +38,6 @@ samples, guidance on mobile development, and a full API reference.
 - Fetch and Display Complete and InComplete Tasks from the locale db file.
 - Mark a Task as Done.
 - Update and Delete feature from the local db file.
+
+# Contributers
+<a href="https://github.com/Lokeshsharma1703/To-Do-App-Project/graphs/contributors" target="blank"> <img src="https://contrib.rocks/image?repo=Lokeshsharma1703/To-Do-App-Project&max=500" /></a>
